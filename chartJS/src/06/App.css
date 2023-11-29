@@ -1,0 +1,15 @@
+#root{
+    width: 100vh;
+}
+
+body{
+
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+.canvasStyle {
+    height: 100vh !important;
+}
